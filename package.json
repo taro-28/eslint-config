@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "taro-28",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-next": "^14.0.2"
+  }
+}
