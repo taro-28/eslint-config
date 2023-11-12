@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "eslint-config-next": "^14.0.2"
-  }
+  },
+  "private": true
 }
